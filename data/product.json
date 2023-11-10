@@ -1,0 +1,7 @@
+{
+    "name":"ABC",
+    "description":"This is ABC",
+    "price":200,
+    "seller":"Beats By san",
+    "stock":500,
+    "category":"Headphones"
